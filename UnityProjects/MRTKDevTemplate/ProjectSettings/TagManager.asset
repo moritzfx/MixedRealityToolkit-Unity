@@ -11,6 +11,7 @@ TagManager:
   - 
   - Water
   - UI
+  - PostProcessing
   - 
   - 
   - 
@@ -35,8 +36,7 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
+  - Teleport
   m_SortingLayers:
   - name: Default
     uniqueID: 0
